@@ -3,7 +3,7 @@ session_start();
 if (!isset($_SESSION['user'])) {
 	header('location:index.php');
 };
-/** Adminer - Compact database management
+/** Adminer - Compact database managementjjj
  * @link https://www.adminer.org/
  * @author Jakub Vrana, https://www.vrana.cz/
  * @copyright 2007 Jakub Vrana
