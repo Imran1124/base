@@ -1,8 +1,5 @@
 <?php
-session_start();
-if (!isset($_SESSION['user'])) {
-	header('location:index.php');
-};
+
 /** Adminer - Compact database managementjjj
  * @link https://www.adminer.org/
  * @author Jakub Vrana, https://www.vrana.cz/

@@ -85,7 +85,7 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
                     }
                     ?>
                     ">
-                        <button class="btn btn-primary btn-block">Login</button>
+                        <button class="btn btn-primary btn-block">Login with PHP</button>
                     </div>
                 </form>
             </div>
